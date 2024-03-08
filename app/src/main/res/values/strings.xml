@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgendaV1</string>
+
+    <string name="nome">Nome</string>
+    <string name="fone">Telefone</string>
+    <string name="inserir">Salvar</string>
+    <string name="limpar">Limpar</string>
+    <string name="excluir">Excluir</string>
+    <string name="contatos">Contatos</string>
+
+</resources>
